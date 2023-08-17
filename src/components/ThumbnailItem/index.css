@@ -1,0 +1,14 @@
+/* Write your code here. */
+.image {
+  height: 60px;
+  width: 60px;
+  border-radius: 5px;
+}
+
+.list-item {
+  list-style-type: none;
+}
+
+.button {
+  border-style: none;
+}
